@@ -1,0 +1,5 @@
+# tier-2 store and generated tier-1 index are the user's own data
+memory.db
+INDEX.md
+__pycache__/
+*.pyc
