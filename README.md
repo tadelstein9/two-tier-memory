@@ -2,7 +2,7 @@
 
 A queryable long-term memory for AI coding agents — the **two-tier fix** for the context-window wall.
 
-> Companion essay: *"Your AI's Memory Breaks on Real Work. The Fix Is Fifty Years Old."*
+> Companion essay: [*"Your AI's Memory Breaks on Real Work. The Fix Is Fifty Years Old."*](https://tomadelstein.substack.com/p/your-ais-memory-breaks-on-real-work)
 
 ## The problem
 
